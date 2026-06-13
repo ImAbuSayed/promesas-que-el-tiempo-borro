@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-que-el-tiempo-borro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Promesas que el tiempo borró](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-que-el-tiempo-borro/) |
+| **Get License** | [Get License For Promesas que el tiempo borró](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-que-el-tiempo-borro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra noche de fiesta, buscando tu piel y tu olor
+> Me dejaste la mente perdida en el humo y licor
+> No me importa el pasado, yo quiero robarte, mi amor
+> Las promesas que el tiempo borró, me piden calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
