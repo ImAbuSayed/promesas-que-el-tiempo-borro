@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas que el tiempo borró
+
+This log tracks the cryptographic history and versioning for the song **Promesas que el tiempo borró** (promesas-que-el-tiempo-borro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:08:53.619792 | `v1` | `db429c0ea85f8e3dc02a0b09ad7b683aaad83a9a9acb49f26368daeaaec1b117` | `b7457b650ac21f2c50c344bbe8e2aae7db69bf9d27cedca28f1b0b8955823276` | `2026-06-14_promesas-que-el-tiempo-borro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
